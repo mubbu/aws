@@ -1,0 +1,1 @@
+devops is a process of synchronizing development and operation systems
